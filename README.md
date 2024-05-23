@@ -1,4 +1,4 @@
-# revisaoapi
+# revisaoapi / CP3
 
 Projeto de revisão de API para os alunos do 2TDSPM da FIAP
 ## Tecnologias
@@ -98,7 +98,6 @@ Body:
 
 
 
-```markdown
 # API Reference - Reservas
 
 ## Obter todas as reservas (findAll reservaDTO)
